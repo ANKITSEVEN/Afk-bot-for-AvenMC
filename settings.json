@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AvenMC.aternos.me",
-    "port": 25410,
+    "ip": "avenmc.falix.gg",
+    "port": 20131,
     "version": "1.20.1",
     "try-creative": false
   },
