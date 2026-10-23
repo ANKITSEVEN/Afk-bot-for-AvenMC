@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "avenmc.falix.gg",
-    "port": 20131,
+    "port": ,
     "version": "1.20.1",
     "try-creative": false
   },
